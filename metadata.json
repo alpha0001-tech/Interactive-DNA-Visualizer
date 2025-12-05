@@ -1,0 +1,5 @@
+{
+  "name": "Helix Lab - Interactive DNA Visualizer",
+  "description": "A high-performance, interactive 3D visualization of a DNA segment. Features procedural generation, real-time twisting, mutation effects, and a lab-bench environment.",
+  "requestFramePermissions": []
+}
